@@ -18,7 +18,7 @@ function Shoe() {
     shoeRef.current.rotation.y = 0.01;
   });
 
-  return <primitive ref={shoeRef} object={scene} scale={0.1} />;
+  return <primitive ref={shoeRef} object={scene} scale={0.2} />;
 }
 
 function View() {

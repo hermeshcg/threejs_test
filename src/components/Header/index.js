@@ -7,8 +7,9 @@ function Header() {
   return (
     <Container>
       <Logo
-        src="https://logosmarcas.net/wp-content/uploads/2020/04/Vans-Logo.png"
+        src="https://logosmarcas.net/wp-content/uploads/2020/04/Air-Jordan-Logo.png"
         alt="logo"
+        style={{ marginTop: 32 }}
       />
       <ContainerIcons>
         <BsSearch size={25} />

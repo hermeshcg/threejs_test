@@ -8,7 +8,7 @@ function Description() {
       <Title>Sua nova</Title>
       <Subtitle>Experiência</Subtitle>
       <Subtitle>Seu novo</Subtitle>
-      <Title>Vans</Title>
+      <Title>Air Jordan</Title>
     </Container>
   );
 }
