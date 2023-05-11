@@ -4,6 +4,8 @@ Esse projeto foi criado durante uma aula de Computação Gráfica no 7º semestr
 
 Site foi produzido com React + ThreeJS com o deploy sendo realizado na Vercel, com o intuito de explorar a manipulação de arquivos 3D em sites web.
 
+Você pode acessar o site clicando [aqui](https://threejs-test-chi.vercel.app).
+
 ![App Screenshot](https://uploaddeimagens.com.br/images/004/462/879/full/image_2023-05-11_194123537.png?1683844891)
 
 ## Tecnologias usadas
